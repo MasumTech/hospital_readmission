@@ -124,5 +124,4 @@ The prediction interface can run with the model artifact already included in thi
 Python / Django Backend Developer · MSc Data Science (Merit)
 
 - GitHub: [MasumTech](https://github.com/MasumTech)
-- LinkedIn: [Md. Masum Reza](https://www.linkedin.com/in/masumtech/)
 
